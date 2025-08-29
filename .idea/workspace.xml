@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="384d0504-4e40-41b2-95af-4b52a5a2b4a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Time_Series.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Time_Series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Finance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Finance.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="384d0504-4e40-41b2-95af-4b52a5a2b4a7" name="Changes" comment="Time Series">
+      <change afterPath="$PROJECT_DIR$/Correlation_Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_Series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Time_Series.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +41,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="31cYD4oztIvgZJk2Mh5PFu3N46E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,12 +85,36 @@
       <workItem from="1755824705553" duration="7000" />
       <workItem from="1755824777506" duration="5000" />
       <workItem from="1755824809436" duration="3000" />
-      <workItem from="1756417088133" duration="10467000" />
+      <workItem from="1756417088133" duration="26001000" />
     </task>
+    <task id="LOCAL-00001" summary="Time Series">
+      <option name="closed" value="true" />
+      <created>1756435150940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756435150940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Time Series" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time Series" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Finance$Time_Series.coverage" NAME="Time_Series Coverage Results" MODIFIED="1756423583956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
