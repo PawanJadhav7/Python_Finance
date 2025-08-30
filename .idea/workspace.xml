@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="384d0504-4e40-41b2-95af-4b52a5a2b4a7" name="Changes" comment="Time Series">
-      <change afterPath="$PROJECT_DIR$/Correlation_Analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time_Series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Time_Series.ipynb" afterDir="false" />
+    <list default="true" id="384d0504-4e40-41b2-95af-4b52a5a2b4a7" name="Changes" comment="Time Series and Correlation Analysis">
+      <change beforePath="$PROJECT_DIR$/Correlation_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Correlation_Analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -57,7 +61,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Correaltion__Analysis",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,7 +89,7 @@
       <workItem from="1755824705553" duration="7000" />
       <workItem from="1755824777506" duration="5000" />
       <workItem from="1755824809436" duration="3000" />
-      <workItem from="1756417088133" duration="26001000" />
+      <workItem from="1756417088133" duration="27944000" />
     </task>
     <task id="LOCAL-00001" summary="Time Series">
       <option name="closed" value="true" />
@@ -95,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756435150940</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Time Series and Correlation Analysis">
+      <option name="closed" value="true" />
+      <created>1756509870898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756509870898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Time Series" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time Series" />
+    <MESSAGE value="Time Series and Correlation Analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time Series and Correlation Analysis" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Finance$Time_Series.coverage" NAME="Time_Series Coverage Results" MODIFIED="1756423583956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
